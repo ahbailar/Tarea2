@@ -1,0 +1,15 @@
+.barra-navegacion ul{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  list-style-type: none;
+}
+.barra-navegacion ul li a{
+  text-decoration: none;
+  color: black;
+  font-size: 40px;
+}
+.barra-navegacion ul li a:hover {
+  color: #007BFF;
+}
+  
